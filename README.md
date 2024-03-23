@@ -1,4 +1,4 @@
-## Анализ друзей ВКонтакте и Superset-дашборд поведения
+## Superset-дашборд активности друзей в ленте ВКонтакте
 1. Посмотрел долю мужчин и женщин у себя в друзьях
    
    - Создал [блокнот](https://github.com/zinoviev-tech/superset-vk/blob/main/friends_VK.ipynb) и выгрузил данные через VK API и requests

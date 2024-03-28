@@ -1,5 +1,5 @@
-## Superset-дашборд активности друзей в ленте ВКонтакте
-1. [Выгрузил](https://github.com/zinoviev-tech/superset-vk/blob/main/CTR_VK.ipynb) данные о всех постах из своей ленты через VK API и requests
+## Superset-дашборд метрик авторов ВКонтакте
+1. [Выгрузил](https://github.com/zinoviev-tech/superset-vk/blob/main/CTR_VK.ipynb) все посты со страниц, на которые подписан из VK API и requests
 2. Построил графики распределения по постам с логарифмированием по оси ординат: ER(вовлеченности), лайков, комментариев и просмотров
    
    ![image](https://github.com/zinoviev-tech/superset-vk/assets/140282696/0b7cfc07-6f76-444b-a29f-0243386c8cc8)
